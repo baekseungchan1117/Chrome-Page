@@ -60,3 +60,14 @@ body{
     color: rgb(169,169,169);
     font-size: var(--mediup);
 }
+
+.quote {
+    font-size: var(--small);
+    position: fixed;
+    bottom: 0;
+    max-width: 800px;
+    margin: 0 10px;
+    margin-bottom: 20px;
+    font-weight: 300;
+    text-align: center;
+}
